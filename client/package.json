@@ -8,7 +8,7 @@
     "chosen-js": "^1.7.0",
     "classlist-toggle-force-polyfill": "git://github.com/orangemug/classlist-toggle-force-polyfill.git",
     "custom-event-polyfill": "^0.3.0",
-    "datatables.net": "^1.10.15",
+    "datatables.net": "^1.10.22",
     "es6-promise": "^4.1.1",
     "file-saver": "^1.3.3",
     "jquery": "^3.5.0",
